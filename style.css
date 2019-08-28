@@ -1,3 +1,53 @@
-h1 {
-    color: #f0f
+.div1 {
+    color: #f0f;
+    background: blue;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin: 20px;
+    margin-bottom: 10;
+    font-size: 42px
+}
+
+.div2 {
+    color: #f0f;
+    background: blue;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin: 20px;
+    font-size: 42px
+}
+
+.div3 {
+    margin: 20px;
+    width: 100%;
+}
+.section {
+    color: #f0f;
+    background: blue;
+    height: 250px;
+    width: 58%;
+    text-align: center;
+    font-size: 42px;
+    float: left;
+}
+
+.aside {
+    color:  #f0f;
+    background: blue;
+    height: 250px;
+    width: 39.5%;
+    text-align: center;
+    font-size: 42px;
+    float: right;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    background: grey
 }
